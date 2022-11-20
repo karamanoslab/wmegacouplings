@@ -9,3 +9,4 @@
    the run_for_af.py script needs to be updated for the correct HHblits and CCMPred paths (fix!)
    and the Uniref db path (fix)
  
+Work in progress
