@@ -1,0 +1,160 @@
+# 0 Pos1: 17	 Pos2: 7	 ResA: 70 CZ	 pLDDT: 91.1	 ResB: 24 O	 pLDDT: 88.0	 pdb: A0A1F7NRP4	 dist: 8.704	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 65 O	 pLDDT: 81.5	 ResB: 17 CA	 pLDDT: 79.0	 pdb: A0A1F7NRP4	 dist: 7.386	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 69 N	 pLDDT: 90.3	 ResB: 18 O	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 11.516	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 43 N	 pLDDT: 54.0	 ResB: 18 CG2	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 26.076	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 64 CD1	 pLDDT: 73.2	 ResB: 17 CA	 pLDDT: 79.0	 pdb: A0A1F7NRP4	 dist: 8.966	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 69 O	 pLDDT: 90.3	 ResB: 24 C	 pLDDT: 88.0	 pdb: A0A1F7NRP4	 dist: 10.131	conf: 0.304 Violated
+# 6 Pos1: 11	 Pos2: 3	 ResA: 64 CD1	 pLDDT: 73.2	 ResB: 20 N	 pLDDT: 81.4	 pdb: A0A1F7NRP4	 dist: 14.397	conf: 0.296 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 65 O	 pLDDT: 81.5	 ResB: 19 N	 pLDDT: 77.0	 pdb: A0A1F7NRP4	 dist: 9.379	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 82 N	 pLDDT: 52.0	 ResB: 65 N	 pLDDT: 81.5	 pdb: A0A1F7NRP4	 dist: 8.867	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 64 CD1	 pLDDT: 73.2	 ResB: 18 N	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 9.058	conf: 0.270 Violated
+# 10 Pos1: 12	 Pos2: 3	 ResA: 65 O	 pLDDT: 81.5	 ResB: 20 N	 pLDDT: 81.4	 pdb: A0A1F7NRP4	 dist: 10.835	conf: 0.264 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 24 N	 pLDDT: 88.0	 ResB: 17 O	 pLDDT: 79.0	 pdb: A0A1F7NRP4	 dist: 17.498	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 64 CD1	 pLDDT: 73.2	 ResB: 19 N	 pLDDT: 77.0	 pdb: A0A1F7NRP4	 dist: 11.622	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 66 OD1	 pLDDT: 83.0	 ResB: 18 O	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 7.644	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 63 O	 pLDDT: 73.1	 ResB: 17 N	 pLDDT: 79.0	 pdb: A0A1F7NRP4	 dist: 9.151	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 62 CG2	 pLDDT: 62.7	 ResB: 17 N	 pLDDT: 79.0	 pdb: A0A1F7NRP4	 dist: 9.509	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 64 C	 pLDDT: 73.2	 ResB: 21 CG2	 pLDDT: 86.1	 pdb: A0A1F7NRP4	 dist: 15.979	conf: 0.244 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 63 O	 pLDDT: 73.1	 ResB: 18 N	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 10.520	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 65 O	 pLDDT: 81.5	 ResB: 18 O	 pLDDT: 78.0	 pdb: A0A1F7NRP4	 dist: 7.228	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 70 O	 pLDDT: 91.1	 ResB: 43 N	 pLDDT: 54.0	 pdb: A0A1F7NRP4	 dist: 36.344	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 33 CE1	 pLDDT: 55.5	 ResB: 14 CB	 pLDDT: 66.5	 pdb: A0A0E9UXV2	 dist: 26.248	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 28 N	 pLDDT: 66.7	 ResB: 10 N	 pLDDT: 64.1	 pdb: A0A0E9UXV2	 dist: 18.179	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 32 N	 pLDDT: 61.8	 ResB: 11 CB	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 21.400	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 15 N	 pLDDT: 60.8	 ResB: 11 O	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 2.884	conf: 0.328 OK
+# 4 Pos1: 11	 Pos2: 0	 ResA: 27 N	 pLDDT: 68.2	 ResB: 10 N	 pLDDT: 64.1	 pdb: A0A0E9UXV2	 dist: 15.583	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 32 OG	 pLDDT: 61.8	 ResB: 14 CB	 pLDDT: 66.5	 pdb: A0A0E9UXV2	 dist: 26.626	conf: 0.304 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 37 N	 pLDDT: 46.9	 ResB: 28 O	 pLDDT: 66.7	 pdb: A0A0E9UXV2	 dist: 12.753	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 27 N	 pLDDT: 68.2	 ResB: 11 CB	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 13.252	conf: 0.270 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 14 N	 pLDDT: 66.5	 ResB: 10 O	 pLDDT: 64.1	 pdb: A0A0E9UXV2	 dist: 2.915	conf: 0.263 OK
+# 13 Pos1: 13	 Pos2: 1	 ResA: 29 N	 pLDDT: 71.5	 ResB: 11 CB	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 16.966	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 26 CB	 pLDDT: 71.0	 ResB: 10 CB	 pLDDT: 64.1	 pdb: A0A0E9UXV2	 dist: 13.320	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 17 N	 pLDDT: 61.2	 ResB: 10 O	 pLDDT: 64.1	 pdb: A0A0E9UXV2	 dist: 8.400	conf: 0.245 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 26 CB	 pLDDT: 71.0	 ResB: 11 CB	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 11.848	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 28 N	 pLDDT: 66.7	 ResB: 11 CB	 pLDDT: 62.7	 pdb: A0A0E9UXV2	 dist: 15.419	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 33 CE1	 pLDDT: 55.5	 ResB: 15 C	 pLDDT: 60.8	 pdb: A0A0E9UXV2	 dist: 26.644	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 44 ND2	 pLDDT: 80.0	 ResB: 31 O	 pLDDT: 85.3	 pdb: A0A285HGK5	 dist: 11.883	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 39 N	 pLDDT: 79.9	 ResB: 17 N	 pLDDT: 90.0	 pdb: A0A285HGK5	 dist: 20.720	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 43 C	 pLDDT: 79.7	 ResB: 25 O	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 28.395	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 32 NE2	 pLDDT: 85.1	 ResB: 25 O	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 10.351	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 38 N	 pLDDT: 81.2	 ResB: 17 N	 pLDDT: 90.0	 pdb: A0A285HGK5	 dist: 17.946	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 43 C	 pLDDT: 79.7	 ResB: 31 O	 pLDDT: 85.3	 pdb: A0A285HGK5	 dist: 15.956	conf: 0.304 Violated
+# 6 Pos1: 11	 Pos2: 3	 ResA: 38 CB	 pLDDT: 81.2	 ResB: 27 O	 pLDDT: 85.6	 pdb: A0A285HGK5	 dist: 13.067	conf: 0.296 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 39 CE2	 pLDDT: 79.9	 ResB: 26 O	 pLDDT: 88.5	 pdb: A0A285HGK5	 dist: 15.576	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 47 C	 pLDDT: 80.0	 ResB: 39 CE1	 pLDDT: 79.9	 pdb: A0A285HGK5	 dist: 6.880	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 38 N	 pLDDT: 81.2	 ResB: 25 O	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 19.496	conf: 0.270 Violated
+# 10 Pos1: 12	 Pos2: 3	 ResA: 39 CE2	 pLDDT: 79.9	 ResB: 27 O	 pLDDT: 85.6	 pdb: A0A285HGK5	 dist: 13.235	conf: 0.264 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 31 N	 pLDDT: 85.3	 ResB: 17 N	 pLDDT: 90.0	 pdb: A0A285HGK5	 dist: 13.815	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 38 N	 pLDDT: 81.2	 ResB: 26 O	 pLDDT: 88.5	 pdb: A0A285HGK5	 dist: 14.916	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 40 NZ	 pLDDT: 80.4	 ResB: 25 O	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 22.382	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 34 N	 pLDDT: 83.7	 ResB: 17 N	 pLDDT: 90.0	 pdb: A0A285HGK5	 dist: 13.821	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 33 CD1	 pLDDT: 83.4	 ResB: 17 N	 pLDDT: 90.0	 pdb: A0A285HGK5	 dist: 10.680	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 38 CB	 pLDDT: 81.2	 ResB: 28 O	 pLDDT: 87.5	 pdb: A0A285HGK5	 dist: 12.363	conf: 0.244 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 34 N	 pLDDT: 83.7	 ResB: 25 C	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 13.532	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 39 CE2	 pLDDT: 79.9	 ResB: 25 O	 pLDDT: 90.1	 pdb: A0A285HGK5	 dist: 19.388	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 44 ND2	 pLDDT: 80.0	 ResB: 32 O	 pLDDT: 85.1	 pdb: A0A285HGK5	 dist: 11.963	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 73 C	 pLDDT: 57.2	 ResB: 26 O	 pLDDT: 79.6	 pdb: A0A3D3X4C3	 dist: 41.368	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 68 CE2	 pLDDT: 51.0	 ResB: 7 O	 pLDDT: 61.4	 pdb: A0A3D3X4C3	 dist: 65.237	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 72 O	 pLDDT: 54.7	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 58.689	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 31 N	 pLDDT: 75.6	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 22.272	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 67 CD1	 pLDDT: 55.7	 ResB: 7 O	 pLDDT: 61.4	 pdb: A0A3D3X4C3	 dist: 67.456	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 72 O	 pLDDT: 54.7	 ResB: 26 O	 pLDDT: 79.6	 pdb: A0A3D3X4C3	 dist: 43.089	conf: 0.304 Violated
+# 6 Pos1: 11	 Pos2: 3	 ResA: 67 CD1	 pLDDT: 55.7	 ResB: 16 CZ2	 pLDDT: 77.6	 pdb: A0A3D3X4C3	 dist: 52.269	conf: 0.296 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 68 CE2	 pLDDT: 51.0	 ResB: 15 O	 pLDDT: 72.5	 pdb: A0A3D3X4C3	 dist: 53.610	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 113 CE	 pLDDT: 49.6	 ResB: 68 N	 pLDDT: 51.0	 pdb: A0A3D3X4C3	 dist: 15.373	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 67 CD1	 pLDDT: 55.7	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 58.271	conf: 0.270 Violated
+# 10 Pos1: 12	 Pos2: 3	 ResA: 68 CZ	 pLDDT: 51.0	 ResB: 16 CZ2	 pLDDT: 77.6	 pdb: A0A3D3X4C3	 dist: 49.458	conf: 0.264 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 26 N	 pLDDT: 79.6	 ResB: 7 O	 pLDDT: 61.4	 pdb: A0A3D3X4C3	 dist: 25.062	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 67 CD1	 pLDDT: 55.7	 ResB: 15 O	 pLDDT: 72.5	 pdb: A0A3D3X4C3	 dist: 55.629	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 69 N	 pLDDT: 57.1	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 60.355	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 37 N	 pLDDT: 59.9	 ResB: 7 O	 pLDDT: 61.4	 pdb: A0A3D3X4C3	 dist: 40.953	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 36 CD1	 pLDDT: 61.9	 ResB: 7 O	 pLDDT: 61.4	 pdb: A0A3D3X4C3	 dist: 37.848	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 67 CD1	 pLDDT: 55.7	 ResB: 20 O	 pLDDT: 80.5	 pdb: A0A3D3X4C3	 dist: 49.048	conf: 0.244 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 37 N	 pLDDT: 59.9	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 30.592	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 68 CZ	 pLDDT: 51.0	 ResB: 14 O	 pLDDT: 69.8	 pdb: A0A3D3X4C3	 dist: 56.104	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 73 C	 pLDDT: 57.2	 ResB: 31 O	 pLDDT: 75.6	 pdb: A0A3D3X4C3	 dist: 36.405	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 18 O	 pLDDT: 85.6	 ResB: 10 O	 pLDDT: 78.8	 pdb: Q05YB5	 dist: 8.058	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 13 N	 pLDDT: 84.6	 ResB: 1 CE	 pLDDT: 44.5	 pdb: Q05YB5	 dist: 18.345	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 17 N	 pLDDT: 82.2	 ResB: 2 O	 pLDDT: 51.3	 pdb: Q05YB5	 dist: 23.239	conf: 0.329 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 12 N	 pLDDT: 85.0	 ResB: 1 CE	 pLDDT: 44.5	 pdb: Q05YB5	 dist: 15.629	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 17 N	 pLDDT: 82.2	 ResB: 10 O	 pLDDT: 78.8	 pdb: Q05YB5	 dist: 7.906	conf: 0.304 Violated
+# 6 Pos1: 11	 Pos2: 3	 ResA: 12 CB	 pLDDT: 85.0	 ResB: 5 O	 pLDDT: 76.1	 pdb: Q05YB5	 dist: 7.648	conf: 0.296 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 13 CD2	 pLDDT: 84.6	 ResB: 4 O	 pLDDT: 73.2	 pdb: Q05YB5	 dist: 11.077	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 53 OG	 pLDDT: 65.2	 ResB: 13 CZ	 pLDDT: 84.6	 pdb: Q05YB5	 dist: 44.753	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 12 N	 pLDDT: 85.0	 ResB: 2 O	 pLDDT: 51.3	 pdb: Q05YB5	 dist: 15.014	conf: 0.270 Violated
+# 10 Pos1: 12	 Pos2: 3	 ResA: 13 CE2	 pLDDT: 84.6	 ResB: 5 O	 pLDDT: 76.1	 pdb: Q05YB5	 dist: 7.802	conf: 0.264 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 10 CB	 pLDDT: 78.8	 ResB: 1 CE	 pLDDT: 44.5	 pdb: Q05YB5	 dist: 14.675	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 12 N	 pLDDT: 85.0	 ResB: 4 O	 pLDDT: 73.2	 pdb: Q05YB5	 dist: 9.486	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 14 OG	 pLDDT: 82.6	 ResB: 2 O	 pLDDT: 51.3	 pdb: Q05YB5	 dist: 17.697	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 11 CB	 pLDDT: 82.1	 ResB: 1 CE	 pLDDT: 44.5	 pdb: Q05YB5	 dist: 12.981	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 12 N	 pLDDT: 85.0	 ResB: 7 O	 pLDDT: 77.2	 pdb: Q05YB5	 dist: 5.038	conf: 0.244 OK
+# 17 Pos1: 10	 Pos2: 1	 ResA: 11 CB	 pLDDT: 82.1	 ResB: 2 O	 pLDDT: 51.3	 pdb: Q05YB5	 dist: 13.220	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 13 CD2	 pLDDT: 84.6	 ResB: 2 O	 pLDDT: 51.3	 pdb: Q05YB5	 dist: 17.153	conf: 0.241 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 56 N	 pLDDT: 65.0	 ResB: 40 O	 pLDDT: 78.3	 pdb: A0A135L2U3	 dist: 20.626	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 60 N	 pLDDT: 57.7	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 24.207	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 49 N	 pLDDT: 80.3	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 8.730	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 55 CE2	 pLDDT: 67.3	 ResB: 40 O	 pLDDT: 78.3	 pdb: A0A135L2U3	 dist: 18.137	conf: 0.314 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 56 N	 pLDDT: 65.0	 ResB: 47 O	 pLDDT: 78.5	 pdb: A0A135L2U3	 dist: 10.582	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 67 CD2	 pLDDT: 42.7	 ResB: 56 CZ	 pLDDT: 65.0	 pdb: A0A135L2U3	 dist: 12.604	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 55 CD2	 pLDDT: 67.3	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 17.230	conf: 0.270 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 55 CD2	 pLDDT: 67.3	 ResB: 47 O	 pLDDT: 78.5	 pdb: A0A135L2U3	 dist: 8.031	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 57 N	 pLDDT: 60.1	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 20.574	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 54 CE	 pLDDT: 68.8	 ResB: 40 O	 pLDDT: 78.3	 pdb: A0A135L2U3	 dist: 17.387	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 50 CD1	 pLDDT: 78.7	 ResB: 40 O	 pLDDT: 78.3	 pdb: A0A135L2U3	 dist: 12.085	conf: 0.245 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 54 N	 pLDDT: 68.8	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 16.659	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 56 CB	 pLDDT: 65.0	 ResB: 41 O	 pLDDT: 77.8	 pdb: A0A135L2U3	 dist: 18.547	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 61 N	 pLDDT: 54.6	 ResB: 49 O	 pLDDT: 80.3	 pdb: A0A135L2U3	 dist: 14.997	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 183 N	 pLDDT: 87.5	 ResB: 45 O	 pLDDT: 41.4	 pdb: A0A7S2WE20	 dist: 43.317	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 178 O	 pLDDT: 82.1	 ResB: 1 O	 pLDDT: 34.2	 pdb: A0A7S2WE20	 dist: 27.855	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 182 N	 pLDDT: 86.0	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 54.107	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 46 N	 pLDDT: 32.8	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 26.449	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 65 CD1	 pLDDT: 55.5	 ResB: 1 O	 pLDDT: 34.2	 pdb: A0A7S2WE20	 dist: 57.325	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 182 N	 pLDDT: 86.0	 ResB: 45 O	 pLDDT: 41.4	 pdb: A0A7S2WE20	 dist: 41.002	conf: 0.304 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 178 CD2	 pLDDT: 82.1	 ResB: 27 CG2	 pLDDT: 43.7	 pdb: A0A7S2WE20	 dist: 47.888	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 185 CD	 pLDDT: 87.5	 ResB: 178 O	 pLDDT: 82.1	 pdb: A0A7S2WE20	 dist: 3.783	conf: 0.273 OK
+# 9 Pos1: 11	 Pos2: 1	 ResA: 65 C	 pLDDT: 55.5	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 14.366	conf: 0.270 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 45 O	 pLDDT: 41.4	 ResB: 1 O	 pLDDT: 34.2	 pdb: A0A7S2WE20	 dist: 50.229	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 65 C	 pLDDT: 55.5	 ResB: 27 O	 pLDDT: 43.7	 pdb: A0A7S2WE20	 dist: 12.428	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 179 CB	 pLDDT: 81.7	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 46.277	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 64 N	 pLDDT: 54.2	 ResB: 1 O	 pLDDT: 34.2	 pdb: A0A7S2WE20	 dist: 57.973	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 63 CD1	 pLDDT: 58.8	 ResB: 1 O	 pLDDT: 34.2	 pdb: A0A7S2WE20	 dist: 54.483	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 65 C	 pLDDT: 55.5	 ResB: 28 CA	 pLDDT: 38.3	 pdb: A0A7S2WE20	 dist: 10.277	conf: 0.244 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 64 N	 pLDDT: 54.2	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 13.200	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 178 CD2	 pLDDT: 82.1	 ResB: 26 N	 pLDDT: 42.6	 pdb: A0A7S2WE20	 dist: 47.670	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 183 C	 pLDDT: 87.5	 ResB: 46 O	 pLDDT: 32.8	 pdb: A0A7S2WE20	 dist: 42.760	conf: 0.239 Violated
+# 0 Pos1: 17	 Pos2: 7	 ResA: 23 N	 pLDDT: 64.5	 ResB: 13 O	 pLDDT: 62.8	 pdb: A0A1U9XDH6	 dist: 12.737	conf: 0.404 Violated
+# 1 Pos1: 12	 Pos2: 0	 ResA: 18 N	 pLDDT: 57.2	 ResB: 1 O	 pLDDT: 47.5	 pdb: A0A1U9XDH6	 dist: 19.221	conf: 0.350 Violated
+# 2 Pos1: 16	 Pos2: 1	 ResA: 22 N	 pLDDT: 62.8	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 18.929	conf: 0.329 Violated
+# 3 Pos1: 8	 Pos2: 1	 ResA: 14 O	 pLDDT: 61.6	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 17.431	conf: 0.328 Violated
+# 4 Pos1: 11	 Pos2: 0	 ResA: 17 CE1	 pLDDT: 59.0	 ResB: 1 O	 pLDDT: 47.5	 pdb: A0A1U9XDH6	 dist: 13.399	conf: 0.314 Violated
+# 5 Pos1: 16	 Pos2: 7	 ResA: 22 N	 pLDDT: 62.8	 ResB: 13 O	 pLDDT: 62.8	 pdb: A0A1U9XDH6	 dist: 11.481	conf: 0.304 Violated
+# 6 Pos1: 11	 Pos2: 3	 ResA: 17 CE1	 pLDDT: 59.0	 ResB: 4 O	 pLDDT: 58.9	 pdb: A0A1U9XDH6	 dist: 9.297	conf: 0.296 Violated
+# 7 Pos1: 12	 Pos2: 2	 ResA: 18 N	 pLDDT: 57.2	 ResB: 3 O	 pLDDT: 53.6	 pdb: A0A1U9XDH6	 dist: 17.395	conf: 0.276 Violated
+# 8 Pos1: 20	 Pos2: 12	 ResA: 27 N	 pLDDT: 62.5	 ResB: 18 O	 pLDDT: 57.2	 pdb: A0A1U9XDH6	 dist: 10.171	conf: 0.273 Violated
+# 9 Pos1: 11	 Pos2: 1	 ResA: 17 CE1	 pLDDT: 59.0	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 11.215	conf: 0.270 Violated
+# 10 Pos1: 12	 Pos2: 3	 ResA: 18 N	 pLDDT: 57.2	 ResB: 4 O	 pLDDT: 58.9	 pdb: A0A1U9XDH6	 dist: 15.874	conf: 0.264 Violated
+# 11 Pos1: 7	 Pos2: 0	 ResA: 13 N	 pLDDT: 62.8	 ResB: 1 O	 pLDDT: 47.5	 pdb: A0A1U9XDH6	 dist: 18.771	conf: 0.263 Violated
+# 12 Pos1: 11	 Pos2: 2	 ResA: 17 CE1	 pLDDT: 59.0	 ResB: 3 O	 pLDDT: 53.6	 pdb: A0A1U9XDH6	 dist: 11.002	conf: 0.260 Violated
+# 13 Pos1: 13	 Pos2: 1	 ResA: 19 C	 pLDDT: 60.6	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 18.839	conf: 0.257 Violated
+# 14 Pos1: 10	 Pos2: 0	 ResA: 16 O	 pLDDT: 59.3	 ResB: 1 O	 pLDDT: 47.5	 pdb: A0A1U9XDH6	 dist: 18.083	conf: 0.245 Violated
+# 15 Pos1: 9	 Pos2: 0	 ResA: 15 C	 pLDDT: 59.7	 ResB: 1 O	 pLDDT: 47.5	 pdb: A0A1U9XDH6	 dist: 21.027	conf: 0.245 Violated
+# 16 Pos1: 11	 Pos2: 4	 ResA: 17 CE1	 pLDDT: 59.0	 ResB: 5 O	 pLDDT: 59.0	 pdb: A0A1U9XDH6	 dist: 6.962	conf: 0.244 Violated
+# 17 Pos1: 10	 Pos2: 1	 ResA: 16 C	 pLDDT: 59.3	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 16.401	conf: 0.242 Violated
+# 18 Pos1: 12	 Pos2: 1	 ResA: 18 N	 pLDDT: 57.2	 ResB: 2 O	 pLDDT: 56.4	 pdb: A0A1U9XDH6	 dist: 17.062	conf: 0.241 Violated
+# 19 Pos1: 17	 Pos2: 8	 ResA: 23 N	 pLDDT: 64.5	 ResB: 14 O	 pLDDT: 61.6	 pdb: A0A1U9XDH6	 dist: 11.108	conf: 0.239 Violated
+Fully violated restr 0
+Fully violated restr 1
+Fully violated restr 2
+Fully violated restr 4
+Fully violated restr 5
+Fully violated restr 6
+Fully violated restr 7
+Fully violated restr 9
+Fully violated restr 10
+Fully violated restr 12
+Fully violated restr 13
+Fully violated restr 14
+Fully violated restr 15
+Fully violated restr 17
+Fully violated restr 18
+Fully violated restr 19
