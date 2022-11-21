@@ -3,6 +3,8 @@
 1. Install HHsuite (easy to do in anaconda)
 2. Install CCMpred 
 3. Needs an internet connection
+4. Written in python3
+5. Dependencies numpy, matplotlib, biopython,
 4. Run as 
    python run_for_af.py input.fasta
    
