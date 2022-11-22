@@ -11,6 +11,7 @@
 8. The x_coupling _analysis.txt contains the results :
 
    restr_number fasta_residue1(numbering starts from 0)  fasta_residue2  pdb_res1 atom1 plddt1 pdb_res2 atom2 plddt2_ accession_number distance, ccmpred_score
+   
    At the end of the file you can find the pairs that are always violated
    
 Output.zip contains the results of the analysis for 2012 Pfam families
