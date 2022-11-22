@@ -1,7 +1,7 @@
   # WmegaCouplings
 
-1. Install HHsuite (easy to do in anaconda)
-2. Install CCMpred (cmake -DWITH_CUDA=OFF ${PATH_TO_CCMPRED_REPO to isntall without a gpu}
+1. Install HHsuite (easy to do in anaconda) and the target database
+2. Install CCMpred (cmake -DWITH_CUDA=OFF ${PATH_TO_CCMPRED_REPO to install without a gpu}
 3. make sure that the CCMpred is in your PATH
 4. Needs an internet connection
 5. Written in python3
