@@ -5,7 +5,9 @@ from Bio.Seq import Seq, MutableSeq
 import matplotlib.pyplot as plt
 from data.simulate import Simulate
 from tools.ccmpred import CCMPred
+from tools.configure import Configure
 
+ccmpred_path=Configure.get_ccmpred_path()
 
 
 fasta= '''>test
@@ -50,7 +52,7 @@ for step  in range(nsteps):
     outfile.close()
 
 
-    CCMPRED=CCMPred('/Users/tkaraman/Programs/CCMpred/') 
+    CCMPRED=CCMPred(ccmpred_path) 
     out=CCMPRED.run('./sim.psi')
     plt.figure(10) 
     CCMPRED.plotmat(out)
