@@ -8,21 +8,28 @@ from data.pdb import restraints
 from tools.hhblits import HHBlits
 from tools.ccmpred import CCMPred
 from tools.fasta import Fasta
+from tools.configure import Configure
 
-files=sys.argv[1:]
+db_path=sys.argv[1]
+files=sys.argv[2:]
+
+hhblits_path=Configure.get_hhblits_path()
+ccmpred_path=Configure.get_ccmpred_path()
+
 
 for inp in files:
     path   = '/'.join(inp.split('/')[:-1])
     prefix = inp.split('/')[-1].split('.')[0]
-    
+    if path == '': path='.'
+
     seq= Fasta.read(inp)
 
-    HHBLITS=HHBlits('/Users/tkaraman/opt/anaconda3/envs/python39/bin/hhblits', '/Users/tkaraman/hhsuite_dbs/UniRef30_2022_02_hhsuite/UniRef30_2022_02', n_iter=2, psi=True, hhm=True)
+    HHBLITS=HHBlits(hhblits_path, db_path, n_iter=2, psi=True, hhm=True)
     HHBLITS.run(inp)
     hhm_mat=HHBLITS.process_hhm('out.hhm', fasta_string=seq)
     HHBLITS.plot_hhm(hhm_mat, outfile='HHM_map.pdf')
      
-    CCMPRED=CCMPred('/Users/tkaraman/Programs/CCMpred/', n_top=500) 
+    CCMPRED=CCMPred(ccmpred_path, n_top=500) 
     out=CCMPRED.run('./out.psi')
     CCMPRED.plotmat(out)
     CCMPRED.top_couplings(out, outfile='%s/%s_top_couplings_n500_s7.txt' %(path, prefix) ) 
